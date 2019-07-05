@@ -1,3 +1,3 @@
-#creditcardfraud
+# creditcardfraud
 
-Access creditcard.csv file from ```https://www.kaggle.com/mlg-ulb/creditcardfraud```
+Get access to creditcard.csv dataset [here](https://www.kaggle.com/mlg-ulb/creditcardfraud)
